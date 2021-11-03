@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pdfreactapp/static/css/main.8a786b5f.chunk.css",
+    "main.js": "/pdfreactapp/static/js/main.576a9a50.chunk.js",
+    "main.js.map": "/pdfreactapp/static/js/main.576a9a50.chunk.js.map",
+    "runtime-main.js": "/pdfreactapp/static/js/runtime-main.052e6673.js",
+    "runtime-main.js.map": "/pdfreactapp/static/js/runtime-main.052e6673.js.map",
+    "static/css/2.b5e086e8.chunk.css": "/pdfreactapp/static/css/2.b5e086e8.chunk.css",
+    "static/js/2.e4cfc583.chunk.js": "/pdfreactapp/static/js/2.e4cfc583.chunk.js",
+    "static/js/2.e4cfc583.chunk.js.map": "/pdfreactapp/static/js/2.e4cfc583.chunk.js.map",
+    "static/js/3.3491c4ff.chunk.js": "/pdfreactapp/static/js/3.3491c4ff.chunk.js",
+    "static/js/3.3491c4ff.chunk.js.map": "/pdfreactapp/static/js/3.3491c4ff.chunk.js.map",
+    "index.html": "/pdfreactapp/index.html",
+    "static/css/2.b5e086e8.chunk.css.map": "/pdfreactapp/static/css/2.b5e086e8.chunk.css.map",
+    "static/css/main.8a786b5f.chunk.css.map": "/pdfreactapp/static/css/main.8a786b5f.chunk.css.map",
+    "static/js/2.e4cfc583.chunk.js.LICENSE.txt": "/pdfreactapp/static/js/2.e4cfc583.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.052e6673.js",
+    "static/css/2.b5e086e8.chunk.css",
+    "static/js/2.e4cfc583.chunk.js",
+    "static/css/main.8a786b5f.chunk.css",
+    "static/js/main.576a9a50.chunk.js"
+  ]
+}
